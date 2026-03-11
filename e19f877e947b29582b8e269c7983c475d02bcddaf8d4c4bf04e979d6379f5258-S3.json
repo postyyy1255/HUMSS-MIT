@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "In an important subject,Guada is grouped for a major activity\nbut one of her groupmates refuses to participate.\nWhat should she do?\n[[ A. Do their assigned task to keep peace.|option7]]\n[[ B. Persuade them to help the group.|option8]]\n[[ C. Report the classmate to the teacher.|option9]]",
+		"position": {
+			"x": 569,
+			"y": 348
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option7",
+		"tags": "",
+		"body": "Congrats! You got 1 pts!!",
+		"position": {
+			"x": 349,
+			"y": 137
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option8",
+		"tags": "",
+		"body": "Congrats! You got 2 pts!!",
+		"position": {
+			"x": 611,
+			"y": 84
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option9",
+		"tags": "",
+		"body": "Congrats! You got 3 pts!!",
+		"position": {
+			"x": 860,
+			"y": 98
+		},
+		"colorID": 0
+	}
+]

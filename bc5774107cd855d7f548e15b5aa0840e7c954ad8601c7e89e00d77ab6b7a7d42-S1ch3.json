@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Lupe was at the park hanging out with friends\nwhen one friend shared a secret with him about another person in the group.\nWhat should Lupe do?\n[[ A. Lupe must inform the other friends about the situation. |option1]]\n[[ B. Lupe must simply ignore the secret. |option2]]\n[[ C. Lupe must keep the secret. |option3]]\n",
+		"position": {
+			"x": 569,
+			"y": 348
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option1",
+		"tags": "",
+		"body": "Congrats! You got 1 pt!!",
+		"position": {
+			"x": 689,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option2",
+		"tags": "",
+		"body": "Congrats! You got 2 pts!!",
+		"position": {
+			"x": 909,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option3",
+		"tags": "",
+		"body": "Congrats! You got 3 pts!!",
+		"position": {
+			"x": 1129,
+			"y": 127
+		},
+		"colorID": 0
+	}
+]

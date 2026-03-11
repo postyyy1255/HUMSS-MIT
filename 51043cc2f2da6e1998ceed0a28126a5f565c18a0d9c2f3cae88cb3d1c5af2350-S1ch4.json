@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "A classmate is being made fun of in the group chat.\nMemes and jokes are spreading fast, and everyone is reacting with laughing emojis.\nLupe sees it happening in real time.\nWhat should he do?\n[[ A. Lupe joins the jokes so he won’t look “boring.” |option1]]\n[[ B. Lupe stays silent and just watches. |option2]]\n[[ C. Lupe speaks up and tells them to stop, even if it makes things awkward. |option3]]\n",
+		"position": {
+			"x": 568,
+			"y": 349
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option1",
+		"tags": "",
+		"body": "Congrats! You got 1 pt!!",
+		"position": {
+			"x": 689,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option2",
+		"tags": "",
+		"body": "Congrats! You got 2 pts!!",
+		"position": {
+			"x": 909,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option3",
+		"tags": "",
+		"body": "Congrats! You got 3 pts!!",
+		"position": {
+			"x": 1129,
+			"y": 127
+		},
+		"colorID": 0
+	}
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Guada woke up behind schedule.\nHer grandmother reminds her to finish her household duty,\nbut her friends are already waiting and need to go to school.\nWhat should she do?\n[[ A. She should leave quietly and do the household duty later |option1]]\n[[ B. Guada should handle the responsibility first even if she will be late. |option2]]\n[[ C. She should ask for permission to complete it after school.|option3]]\n",
+		"position": {
+			"x": 569,
+			"y": 348
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option1",
+		"tags": "",
+		"body": "Congrats! You got 1 pts!!",
+		"position": {
+			"x": 689,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option2",
+		"tags": "",
+		"body": "Congrats! You got 2 pts!!",
+		"position": {
+			"x": 909,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option3",
+		"tags": "",
+		"body": "Congrats! You got 3pts!!",
+		"position": {
+			"x": 1129,
+			"y": 127
+		},
+		"colorID": 0
+	}
+]

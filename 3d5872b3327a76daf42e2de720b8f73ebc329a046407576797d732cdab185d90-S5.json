@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Guada then witnessed a younger student being teased and intimidated.\nBystanders wonder whether she will step forward.\nWhat should Guada do?\n[[ A. Guada should pretend she didn’t see anything.|option13]]\n[[ B. She should seek assistance from an adult.|option14]]\n[[ C. She should approach and help the victim|option15]]",
+		"position": {
+			"x": 569,
+			"y": 348
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option13",
+		"tags": "",
+		"body": "Congrats! You got 1 pts!!",
+		"position": {
+			"x": 689,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option14",
+		"tags": "",
+		"body": "Congrats! You got 3 pts!!",
+		"position": {
+			"x": 909,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option15",
+		"tags": "",
+		"body": "Congrats! You got 2 pts!!",
+		"position": {
+			"x": 1129,
+			"y": 128
+		},
+		"colorID": 0
+	}
+]

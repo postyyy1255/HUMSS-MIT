@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "At lunch, Guada overhears her friends spreading rumors about a new student.\nThey invite her to join the conversation.\nWhat should she do?\n[[ A. She should join in so she won’t feel left out. |option7]]\n[[ B. Guada should change the topic and avoid gossip. |option8]]\n[[ C. She should defend the new student and discourage the rumors. |option9]]\n",
+		"position": {
+			"x": 569,
+			"y": 348
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option7",
+		"tags": "",
+		"body": "Congrats! You got 1 pt!!",
+		"position": {
+			"x": 689,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option8",
+		"tags": "",
+		"body": "Congrats! You got 2 pts!!",
+		"position": {
+			"x": 909,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option9",
+		"tags": "",
+		"body": "Congrats! You got 3 pts!!",
+		"position": {
+			"x": 1129,
+			"y": 127
+		},
+		"colorID": 0
+	}
+]

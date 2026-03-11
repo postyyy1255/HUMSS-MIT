@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Upon arriving, Guada realized she failed to complete an academic task.\nWhat's the right thing to do?\n[[ A. Guada must quickly duplicate a classmate’s work. |option4]]\n[[ B. She should admit your situation honestly. |option5]]\n[[ C. She ought to stay in the background and hope it isn’t collected.|option6]]",
+		"position": {
+			"x": 569,
+			"y": 348
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option4",
+		"tags": "",
+		"body": "Congrats! You got 1 pts!!",
+		"position": {
+			"x": 411,
+			"y": 111
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option5",
+		"tags": "",
+		"body": "Congrats! You got 3 pts!!",
+		"position": {
+			"x": 713,
+			"y": 109
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option6",
+		"tags": "",
+		"body": "Congrats! You got 2 pts!!",
+		"position": {
+			"x": 980,
+			"y": 106
+		},
+		"colorID": 0
+	}
+]

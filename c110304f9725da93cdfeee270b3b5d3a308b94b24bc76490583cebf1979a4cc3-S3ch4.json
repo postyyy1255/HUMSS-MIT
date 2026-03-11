@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "There’s a surprise quiz,\nand Lupe’s seatmate secretly offers him answers.\nWhat should Lupe do?\n[[ A. Lupe accepts the answers so he won’t fail. |option7]]\n[[ B. Lupe refuses but doesn’t report it. |option8]]\n[[ C. Lupe refuses and encourages his seatmate to trust their own effort. |option9]]\n",
+		"position": {
+			"x": 570,
+			"y": 318
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option7",
+		"tags": "",
+		"body": "Congrats! You got 1 pt!!",
+		"position": {
+			"x": 689,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option8",
+		"tags": "",
+		"body": "Congrats! You got 2 pts!!",
+		"position": {
+			"x": 909,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option9",
+		"tags": "",
+		"body": "Congrats! You got 3 pts!!",
+		"position": {
+			"x": 1129,
+			"y": 127
+		},
+		"colorID": 0
+	}
+]

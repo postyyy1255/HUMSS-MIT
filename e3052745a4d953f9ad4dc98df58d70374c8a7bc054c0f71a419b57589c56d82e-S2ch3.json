@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Lupe was studying at his friend’s house when he noticed an open diary on the desk.\nEven though no one else was in the room,\nhe realized this was a test of his honesty and respect for his friend’s privacy.\nWhat should Lupe do?\n[[ A. Lupe will read it out of curiosity. |option4]]\n[[ B. Lupe would take a picture of a page and spread it. |option5]]\n[[ C. He will just close, return it and respect their privacy. |option6]]\n",
+		"position": {
+			"x": 570,
+			"y": 349
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option4",
+		"tags": "",
+		"body": "Congrats! You got 1 pt!!",
+		"position": {
+			"x": 689,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option5",
+		"tags": "",
+		"body": "Congrats! You got 2 pts!!",
+		"position": {
+			"x": 909,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option6",
+		"tags": "",
+		"body": "Congrats! You got 3 pts!!",
+		"position": {
+			"x": 1129,
+			"y": 127
+		},
+		"colorID": 0
+	}
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Before school, Guada stops by a small café to review for a quiz.\nWhile ordering, the cashier accidentally gives her extra change.\nNo one seems to notice, and the line is getting longer behind her.\nWhat should she do?\n[[ A. She should keep the extra money and leave quickly. |option1]]\n[[ B. Guada should return the excess change to the cashier. |option2]]\n[[ C. She should ignore it for now and decide later. |option3]]\n",
+		"position": {
+			"x": 569,
+			"y": 348
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option1",
+		"tags": "",
+		"body": "Congrats! You got 1 pt!!",
+		"position": {
+			"x": 689,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option2",
+		"tags": "",
+		"body": "Congrats! You got 3 pts!!",
+		"position": {
+			"x": 909,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option3",
+		"tags": "",
+		"body": "Congrats! You got 2 pts!!",
+		"position": {
+			"x": 1129,
+			"y": 127
+		},
+		"colorID": 0
+	}
+]

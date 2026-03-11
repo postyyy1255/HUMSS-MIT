@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "While walking, Guada notices a coin purse lying on the ground.\nSome people around her seem to recognize her and watch closely.\nWhat is she going to do?\n[[ A. She should pocket the money and move on.|option10]]\n[[ B. Guada should locate the owner and give it back.|option11]]\n[[ C. She should turn it over to nearby personnel.|option12]]",
+		"position": {
+			"x": 569,
+			"y": 348
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option10",
+		"tags": "",
+		"body": "Congrats! You got 1 pts!!",
+		"position": {
+			"x": 368,
+			"y": 95
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option11",
+		"tags": "",
+		"body": "Congrats! You got 2 pts!!",
+		"position": {
+			"x": 606,
+			"y": 88
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option12",
+		"tags": "",
+		"body": "Congrats! You got 3 pts!!",
+		"position": {
+			"x": 846,
+			"y": 85
+		},
+		"colorID": 0
+	}
+]

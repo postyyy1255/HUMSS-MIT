@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Lupe’s parents compare him to his older cousin who always gets high grades.\nHe feels pressured and discouraged.\nWhat should Lupe do?\n[[ A. Lupe pretends he’s fine and keeps everything inside. |option4]]\n[[ B. Lupe lies about his grades to avoid disappointment. |option5]]\n[[ C. Lupe opens up about how he feels and asks for understanding instead of pressure. |option6]]",
+		"position": {
+			"x": 569,
+			"y": 348
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option4",
+		"tags": "",
+		"body": "Congrats! You got 2 pts!!",
+		"position": {
+			"x": 689,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option5",
+		"tags": "",
+		"body": "Congrats! You got 1 pt!!",
+		"position": {
+			"x": 909,
+			"y": 128
+		},
+		"colorID": 0
+	},
+	{
+		"title": "option6",
+		"tags": "",
+		"body": "Congrats! You got 3 pts!!",
+		"position": {
+			"x": 1129,
+			"y": 127
+		},
+		"colorID": 0
+	}
+]
